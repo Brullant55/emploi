@@ -1,0 +1,75 @@
+tdtdtdtdtdtdtdtdtdtdtdtdtdtdtdtd, th{
+    border: 1px solid rgb(70, 62, 62); 
+    padding: 10px; 
+    font-size: 30px;
+    font-style: italic;
+    position: relative;
+    
+    
+}
+
+    
+
+table{
+    border-collapse: collapse;
+    position: relative;
+    margin: auto;
+    box-shadow: 5px 5px 12px forestgreen;
+}
+tr:nth-child(even){
+    background-color: rgba(50, 50, 200, 0.5)
+}
+tr:nth-child(odd){
+    background-color: whitesmoke;
+}
+header{
+    text-align: center;
+    line-height: 100px;
+    font-style: italic;
+    font-size: 50px;
+    text-shadow: 5px 5px 10px greenyellow;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+
+}
+body{
+    background-color: olivedrab;
+    position: absolute;
+}
+caption{
+    font-size: 40px;
+    font-style: oblique;
+
+
+}
+.class1{
+    text-align: center;
+}
+.div5,#dnas{
+    margin: 50px;
+    
+}
+p{
+    text-align: right;
+    font-style: italic;
+    font-size: 20px;
+    text-shadow: 4px 4px 12px brown;
+    color: beige;
+}
+body:hover{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+ -webkit-transition-delay: 4s;
+ -webkit-transition-duration: 5s;
+    -webkit-transition-property: bckground-color;
+-webkit-transition-timing-function: 5s;
+}
+body:{
+    background: linear-gradient:50deg,top:50px,green
+}
+.2{
+    position:relative;
+    float: left;
+}
